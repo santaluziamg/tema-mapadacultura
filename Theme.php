@@ -14,11 +14,11 @@ class Theme extends BaseV1\Theme{
         $url_search_projects = $self->searchProjectsUrl;
 
         return [
-//            'site: name' => App::i()->config['app.siteName'],
-//            'site: description' => App::i()->config['app.siteDescription'],
+           'site: name' => 'Mapa Cultural',
+           'site: description' => 'Santa Luzia Mg',
 //            'site: in the region' => 'na região',
 //            'site: of the region' => 'da região',
-//            'site: owner' => 'Secretaria',
+           'site: owner' => 'Secretaria Municipal de Cultura de',
 //            'site: by the site owner' => 'pela Secretaria',
 //
 //            'home: title' => "Bem-vind@!",
