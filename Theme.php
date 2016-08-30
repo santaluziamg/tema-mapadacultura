@@ -10,7 +10,7 @@ class Theme extends BaseV1\Theme{
             'site: description' => 'Santa Luzia Mg',
             'site: owner' => 'Secretaria Municipal de Cultura de',
             'site: by the site owner' => 'pela Secretaria Municipal de Cultura de Santa Luzia',
-            'home: abbreviation' => "SECUSL",
+          'home: abbreviation' => "SECUSL",
 //            'home: colabore' => "Colabore com o Mapas Culturais",
             'home: welcome' => "Mapa cultural é a plataforma livre, gratuita e colaborativa de mapeamento da Secretaria de Cultura de Santa Luzia sobre o cenário cultural andreense. Mais que a facilidade de se programar, o mapeamento permite conhecer a diversidade cultural que a cidade oferece e contribui na elaboração de políticas públicas. Além de conferir a agenda de shows musicais, espetáculos teatrais, sessões de cinema, saraus, entre outras, você também pode colaborar: basta criar perfil de agente cultural. A partir deste cadastro, fica mais fácil participar dos editais do Fundo de Cultura e também divulgar eventos, espaços ou projetos.",
             'home: events' => "Você pode pesquisar eventos culturais da cidade nos campos de busca combinada. Como usuário cadastrado, você pode incluir seus eventos na plataforma e divulgá-los gratuitamente.",
