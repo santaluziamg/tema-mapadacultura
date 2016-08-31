@@ -10,9 +10,22 @@ return [
 //    // simplificação do shapefile
 //    'maps.geometryFieldQuery' => "ST_SimplifyPreserveTopology(geom, 0.001)",
 //
-   // zoom padrão do mapa da busca
-   'maps.zoom.default' => 5,
+//    // zoom padrão do mapa da busca
+//    'maps.zoom.default' => 5,
 //
+//    // zoom do mapa da single do agente quando este define a posição como aproximada
+//    'maps.zoom.approximate' => 14,
+//
+//    // zoom do mapa da single do agente quando este define a posição como precisa
+//    'maps.zoom.precise' => 16,
+//
+//    // zoom máximo do mapa da busca
+//    'maps.zoom.max' => 18,
+//
+//    // zom mínimo do mapa da busca
+//    'maps.zoom.min' => 5,
+  // zoom padrão do mapa da busca
+   'maps.zoom.default' => 5,
    // zoom do mapa da single do agente quando este define a posição como aproximada
    'maps.zoom.approximate' => 14,
 
